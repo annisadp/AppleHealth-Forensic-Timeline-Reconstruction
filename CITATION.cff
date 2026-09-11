@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+
+message: "If you use this software, please cite it as follows."
+
+title: "Apple Health Forensic Timeline Reconstruction: Multi-schema iOS Artifact for Digital Investigations"
+
+authors:
+  - family-names: "Puspitarini"
+    given-names: "Annisa Dwi"
+    affiliation: "Department of Informatics, Institut Teknologi Sepuluh Nopember"
+
+  - family-names: "Studiawan"
+    given-names: "Hudan"
+    affiliation: "Department of Informatics, Institut Teknologi Sepuluh Nopember"
+    orcid: ""
+
+version: "1.0.0"
+
+date-released: "2026-09-11"
+
+repository-code: "https://github.com/annisadp/AppleHealth-Forensic-Timeline-Reconstruction"
+
+license: "MIT"
+
+keywords:
+  - "digital forensics"
+  - "iOS forensics"
+  - "Apple Health"
+  - "SQLite"
+  - "timeline reconstruction"
+  - "mobile forensics"
+
+abstract: >
+  A Python-based forensic framework for extracting and reconstructing
+  Apple Health artifacts from iOS SQLite databases across multiple
+  iOS schema versions.
