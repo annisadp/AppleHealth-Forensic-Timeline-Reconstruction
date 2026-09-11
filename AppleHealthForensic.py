@@ -1,6 +1,4 @@
 
-pip install pandas openpyxl
-
 # **Imports and Cocoa Time Utilities**
 
 import sqlite3

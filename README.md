@@ -55,4 +55,4 @@ The tool currently supports extraction of:
 Clone this repository:
 
 ```bash
-git clone https://github.com/username/AppleHealth-Forensic-Timeline-Reconstruction.git
+git clone https://github.com/annisadp/AppleHealth-Forensic-Timeline-Reconstruction.git

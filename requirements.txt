@@ -1,6 +1,5 @@
 Python >= 3.9
 
 Required packages:
-
 - pandas
 - openpyxl

@@ -33,4 +33,4 @@ keywords:
 abstract: >
   A Python-based forensic framework for extracting and reconstructing
   Apple Health artifacts from iOS SQLite databases across multiple
-  iOS schema versions.
+  iOS schema versions
